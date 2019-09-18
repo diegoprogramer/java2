@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Sep 18 13:00:36 COT 2019:
+ Iniciando instancia a816c00e-016d-4588-7c5f-000000b45f10 de Derby, versión The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): 
+en el directorio de base de datos C:\Users\alexander\Documents\NetBeansProjects\Derbyproject\MBD\MYBD.DB con el cargador de clases sun.misc.Launcher$AppClassLoader@103dbd3
+Cargado desde file:/C:/Users/alexander/Music/DERBY/db-derby-10.14.2.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_131-b11
+user.dir=C:\Users\alexander\Documents\NetBeansProjects\Derbyproject
+os.name=Windows 10
+os.arch=x86
+os.version=10.0
+derby.system.home=null
+Cargador de clases de base de datos iniciado - derby.database.classpath=''
